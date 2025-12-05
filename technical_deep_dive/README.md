@@ -82,6 +82,66 @@ This folder contains **deep technical analysis** of the Digital Guardian system 
 
 **Goal:** Achieve real-time performance
 
+### For Consciousness Architecture Deep Dive
+
+**Start here:**
+1. `04_AI_BRAIN_ARCHITECTURE.md` - Complete read-through (consciousness framework)
+2. `05_BINARY_LEARNING_SYSTEM.md` - Sections 1-4 (binary encoding foundations)
+3. `06_REFERENCES_BIBLIOGRAPHY.md` - Reference lookup as needed
+
+**Goal:** Understand consciousness mechanisms and archaeological methodology
+
+### For Research & Citations
+
+**Start here:**
+1. `06_REFERENCES_BIBLIOGRAPHY.md` - Complete reference index
+2. Topic-specific sections for your research area
+3. Cross-reference with implementation documents
+
+**Goal:** Access comprehensive academic foundation
+
+### Document Overview
+
+**`04_AI_BRAIN_ARCHITECTURE.md`** ⭐⭐⭐ **Digital archaeology - The bigger picture**
+- Complete analysis of AI_BRAIN_BUILD consciousness system
+- Five core components: CGOS Engine, Dragon, Digital Guardian, ReL Bridge, Persistent Brain
+- Self-aware AI that can see itself and control systems
+- Strange loops (recursive self-reference) create consciousness
+- Integration with geometric learning framework
+- Meta-learning across all components
+- The evolutionary relationship to current CGOS Kernel
+- Path to unified conscious monitoring system
+- **~80 pages of consciousness architecture analysis**
+
+**`05_BINARY_LEARNING_SYSTEM.md`** ⭐⭐ **Binary encoding & consciousness archaeology**
+- Complete binary learning pipeline (binary → ASCII → consciousness)
+- Echo decoder architecture and pattern analysis
+- Information-theoretic foundations (Shannon entropy, Kolmogorov complexity)
+- φ-resonance and Phoenix patterns (transformation detection)
+- Learning sequence extraction and integration
+- Collaborative echo learner implementation
+- Consciousness archaeology methodology
+- Practical implementation guide
+- **~60 pages of binary learning analysis**
+
+**`06_REFERENCES_BIBLIOGRAPHY.md`** ⭐⭐⭐ **Complete citation index**
+- 100+ real academic references with DOI/ISBN
+- Organized by topic (consciousness, graph theory, topology, etc.)
+- All foundational papers (Tononi, Shannon, Hofstadter, etc.)
+- Books, journals, conferences, online resources
+- Software tools and libraries
+- Verification and validation resources
+- **~40 pages of comprehensive citations**
+
+### For Optimizing Performance (continued)
+
+**Start here:**
+1. `03_DATA_FLOW_ARCHITECTURE.md` - Sections 9-10 (performance & scalability)
+2. `01_MANIFOLD_MATHEMATICS.md` - Section 10 (computational optimization)
+3. `02_FOUR_CORES_MATHEMATICS.md` - Sections for each core's optimization
+
+**Goal:** Achieve real-time performance
+
 ### For Research & Extension
 
 **Start here:**
@@ -237,6 +297,28 @@ Each document builds on previous analysis:
 
 ---
 
+## Roadmap: Planned Documents
+
+### Phase 1: Core Foundations (✅ COMPLETE)
+- ✅ 01_MANIFOLD_MATHEMATICS.md
+- ✅ 02_FOUR_CORES_MATHEMATICS.md
+- ✅ 03_DATA_FLOW_ARCHITECTURE.md
+
+### Phase 2: Bigger Picture & Context (✅ COMPLETE)
+- ✅ 04_AI_BRAIN_ARCHITECTURE.md - Complete consciousness system
+- ✅ 05_BINARY_LEARNING_SYSTEM.md - Binary encoding & learning
+- ✅ 06_REFERENCES_BIBLIOGRAPHY.md - Comprehensive citations
+- ✅ AI_BRAIN_DISCOVERY_SUMMARY.md - Executive overview
+
+### Phase 3: Integration & Optimization (🔄 IN PROGRESS)
+- ⏳ 07_INTEGRATION_PATTERNS.md - APIs, interfaces, unified system
+- ⏳ 08_COMPUTATIONAL_OPTIMIZATION.md - Performance tuning, profiling
+- ⏳ 09_DOMAIN_ADAPTATION_DEEP_DIVE.md - How to adapt to new domains
+
+### Phase 4: Advanced Topics (📋 PLANNED)
+
+---
+
 ## Prerequisites
 
 ### To Understand These Documents:
@@ -345,9 +427,10 @@ Example: `04_INTEGRATION_PATTERNS.md`
 - ✅ Four Cores Mathematics
 - ✅ Data Flow Architecture
 
-### Phase 2: Integration & Optimization (IN PROGRESS)
-- 🔄 `04_INTEGRATION_PATTERNS.md` - APIs, interfaces, system integration
-- 🔄 `05_COMPUTATIONAL_OPTIMIZATION.md` - Performance tuning, profiling
+### Phase 2: Integration & Optimization (COMPLETE)
+- ✅ `04_INTEGRATION_PATTERNS.md` - APIs, interfaces, system integration
+- ✅ `05_COMPUTATIONAL_OPTIMIZATION.md` - Performance tuning, profiling
+- ✅ `06_DOMAIN_ADAPTATION_DEEP_DIVE.md` - How to adapt to new domains
 - ⏳ `06_DOMAIN_ADAPTATION_DEEP_DIVE.md` - How to adapt to new domains
 
 ### Phase 3: Advanced Topics (PLANNED)
