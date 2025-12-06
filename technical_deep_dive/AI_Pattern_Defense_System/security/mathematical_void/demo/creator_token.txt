@@ -1,0 +1,4 @@
+CREATOR TOKEN (keep secret):
+d41e746a5af9a46bd49d008ad5f4ee4180b7f0897c4723b03ad7d9f7f9f9ef82
+
+Use this in requests: Authorization: Bearer d41e746a5af9a46bd49d008ad5f4ee4180b7f0897c4723b03ad7d9f7f9f9ef82
